@@ -1,0 +1,28 @@
+{
+    "name": "Sacrificed Primate #2",
+    "symbol": "CSK",
+    "description": "Second sacrifice by UwDegens",
+    "seller_fee_basis_points": 1000,
+    "image": "https://raw.githubusercontent.com/UnderSand/assets/main/KILLAM.png",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Sacrificed",
+            "value": "Second Sacrificed"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/UnderSand/assets/main/KILLAM.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH",
+                "share": 100
+            }
+        ]
+    }
+}
