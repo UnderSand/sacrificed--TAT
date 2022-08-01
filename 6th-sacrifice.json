@@ -1,20 +1,20 @@
 {
-    "name": "Sacrificed Primate #2",
+    "name": "Sacrificed TAT #1",
     "symbol": "CSK",
-    "description": "Second sacrifice by UwDegens",
+    "description": "Sixth sacrifice by UwDegens",
     "seller_fee_basis_points": 1000,
-    "image": "https://raw.githubusercontent.com/UnderSand/assets/main/KILLAM.png",
+    "image": "https://raw.githubusercontent.com/UnderSand/sacrificed--TAT/main/TAT.png",
     "external_url": "",
     "attributes": [
         {
             "trait_type": "Sacrificed",
-            "value": "Second Sacrificed"
+            "value": "Sixth Sacrificed"
         }
     ],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/UnderSand/assets/main/KILLAM.png",
+                "uri": "https://raw.githubusercontent.com/UnderSand/sacrificed--TAT/main/TAT.png",
                 "type": "image/png"
             }
         ],
